@@ -43,17 +43,17 @@ Create an issue including as much information as possible to your proposal. The 
 
 A good users story might be: "As an administrator, I would like to clear the system log without leaving the system log panel in the administration area."
 
-1. **Situation:** What is the current state or hurdle preventing your success story?
+2. **Situation:** What is the current state or hurdle preventing your success story?
 
 Using the example above: "I only have access to the web-frontend and to troubleshoot an issue I must be able to clear the logs without access to a command line to make sure the issue fixed is no longer occurring."
 
-1. **Desired Goal:** How do you expect the software to change for the positive?
+3. **Desired Goal:** How do you expect the software to change for the positive?
 
 In our current example, a goal may be simple: "Please provide me with a button to clear the logs."
 
 Please be very specific in your request. The less ambiguous a request is, the higher the chance of acceptance.
 
-1. **Impact:** - Think about how others see it
+4. **Impact:** - Think about how others see it
 
 Your change impacts other users.
 
@@ -68,8 +68,8 @@ Please refrain from submitting a pull request to the [Znuny](https://github.com/
 >- If the feature could be built as an add-on and serves a niche need, you are encouraged to package it.
 >- If the underlying issue could be better solved by existing technology, we encourage you to seek help in the [Discord Developer Channel](https://discord.gg/ZMeu8AR5).
 >
-1. The community works with the requester and others to build a specification for the feature and update the issue description accordingly.
-1. Finally, if accepted, the `confirmed` label is added.
+2. The community works with the requester and others to build a specification for the feature and update the issue description accordingly.
+3. Finally, if accepted, the `confirmed` label is added.
 
 ### Other Resources
 
